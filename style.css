@@ -1,9 +1,9 @@
 .table{
-    margin: 20px auto auto auto;
+    margin: 10px auto auto auto;
     /* margin: 20px 5px 5px 5px; */
     border: 1px solid white;
     width: 200px;
-    height: 200px;
+    height: 100px;
 }
 input[type="button"]{
     background-color: rgb(221, 216, 216);
