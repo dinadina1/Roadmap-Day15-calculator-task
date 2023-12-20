@@ -5,7 +5,7 @@
     width: 200px;
     height: 100px;
 }
-input[type="button"]{
+[type="button"]{
     background-color: rgb(221, 216, 216);
     padding: 20px 40px;
     border-radius: 10px;
@@ -15,11 +15,11 @@ input[type="button"]{
     font-weight: bold;
     /* z-index: -1; */
 }
-input[type="button"]:hover{
+[type="button"]:hover{
     border: 2px solid rgb(5, 5, 140);
     padding: 18px 38px;
 }
-input[type="button"]:active{
+[type="button"]:active{
     background-color: rgb(22, 56, 227);
     color: white;
 }
